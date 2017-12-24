@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+h2{
+	text-align:center;
+}
+
+table{
+	text-align:center;
+	width:100%;
+}
+
+#main_tr{
+	background-color:#A7A9BF;
+}
+.content
+{
+	text-align: left;
+}
+
+#board_id{
+	width : 10%;
+}
+
+#writer{
+	width : 10%;
+}
+
+#regdate{
+	width : 10%;
+}
+
+#pageStr{
+	text-align: center;
+}
+
+#insertQna{
+	float: right;
+}
+
+.left{
+	position : relative;
+	text-align : left;
+	width : 8%;
+ 
+}
+
+
+#detail_title{
+	width:"10%"
+	
+}
+
+#detail_value{
+	width:"10%"
+}
+
+#content_area{
+	
+	align-content:30px;
+	height:300px;
+}
+p{
+	text-align: center;
+}
